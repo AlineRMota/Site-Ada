@@ -1,1 +1,1 @@
-Site Ada Lovelace (Mulheres na Tecnologia) feito com HTML, CSS e JavaScript.
+Site Ada Lovelace feito com HTML, CSS e JavaScript.
